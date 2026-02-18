@@ -1,6 +1,6 @@
 ## Hi! I'm Dylan.
 
-I am a Division 1 lacrosse player at Loyola University Maryland where I am a double major in Applied Mathematics and Data Science. I am also in the accelerated Masters of Science Data Science Business Analytics Specialization! I am super interested in sports analytics, predictive modeling, and finding ways to use data to understand the things I love.
+I am a Division 1 lacrosse player at Loyola University Maryland where I am a double major in Applied Mathematics and Data Science '26. I am also in the accelerated Masters of Science Data Science Business Analytics Specialization '27! I am super interested in sports analytics, predictive modeling, and finding ways to use data to understand the things I love.
 
 ## What I am working on currently
 
