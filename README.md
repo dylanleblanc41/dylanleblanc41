@@ -1,8 +1,8 @@
 ## Hi! I'm Dylan.
 
-Divison 1 lacrosse player at Loyola University Maryland where I am a double major in Applied Mathematics and Data Science. I am also in the acclerated Masters of Science Data Science Business Analytics Specilzation! I am super interested in sports analytics, predictive modeling, and finding ways to use data to understand the things I love.
+I am a Divison 1 lacrosse player at Loyola University Maryland where I am a double major in Applied Mathematics and Data Science. I am also in the acclerated Masters of Science Data Science Business Analytics Specilzation! I am super interested in sports analytics, predictive modeling, and finding ways to use data to understand the things I love.
 
-## What I am working on
+## What I am working on currently
 
 **[Lacrosse Rankings](https://github.com/dylanleblanc41/Lacrosse-Rankings)** an ELO + RPI ranking system for Divison 1 lacrosse. It features a optimized ELO prediction system (roughly 73% accurate to date), a dynamic RPI weighting for early season, and weekly game predictions posted to my X account. [@Lacrosse_Rank](https://twitter.com/Lacrosse_Rank) — Weekly lacrosse predictions and rankings account ran by me. 
 
