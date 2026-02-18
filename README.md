@@ -1,6 +1,6 @@
 ## Hi! I'm Dylan.
 
-I am a Divison 1 lacrosse player at Loyola University Maryland where I am a double major in Applied Mathematics and Data Science. I am also in the acclerated Masters of Science Data Science Business Analytics Specilzation! I am super interested in sports analytics, predictive modeling, and finding ways to use data to understand the things I love.
+I am a Division 1 lacrosse player at Loyola University Maryland where I am a double major in Applied Mathematics and Data Science. I am also in the accelerated Masters of Science Data Science Business Analytics Specialization! I am super interested in sports analytics, predictive modeling, and finding ways to use data to understand the things I love.
 
 ## What I am working on currently
 
@@ -8,9 +8,9 @@ I am a Divison 1 lacrosse player at Loyola University Maryland where I am a doub
 
 ## About Me
 
-- Applied Mathmatics and Data Science at Loyola MD with a cumulative average GPA of 3.8
-- Inducted member of Phi Mu Epsilon (Math Honors Society) and Chi Alpha Sigma (Athletic Honor Society
-- Expierence in R, Python, SAS, MATLAB, and Tableau
+- Applied Mathematics and Data Science at Loyola MD with a cumulative average GPA of 3.8.
+- Inducted member of Phi Mu Epsilon (Math Honors Society) and Chi Alpha Sigma (Athletic Honor Society.
+- Experience in R, Python, SAS, MATLAB, and Tableau.
 
 ## Ways to contact me!
 
