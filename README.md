@@ -9,12 +9,13 @@ Divison 1 lacrosse player at Loyola University Maryland where I am a double majo
 ## About Me
 
 - Applied Mathmatics and Data Science at Loyola MD with a cumulative average GPA of 3.8
-- Inducted member of Phi Mu Epsilon and Chi Alpha Sigma
+- Inducted member of Phi Mu Epsilon (Math Honors Society) and Chi Alpha Sigma (Athletic Honor Society
 - Expierence in R, Python, SAS, MATLAB, and Tableau
 
-## Links
+## Ways to contact me!
 
-- [LinkedIn](https://www.linkedin.com/in/dylan-leblanc-b897a2283)
+- Email: dleblanc445@gmail.com
+- Or reach out to me on [LinkedIn](https://www.linkedin.com/in/dylan-leblanc-b897a2283)
 <!--
 **dylanleblanc41/dylanleblanc41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
