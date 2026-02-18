@@ -4,7 +4,7 @@ Divison 1 lacrosse player at Loyola University Maryland where I am a double majo
 
 ## What I am working on
 
-**[Lacrosse Rankings](https://github.com/dylanleblanc41/Lacrosse-Rankings)** an ELO + RPI ranking system for Divison 1 lacrosse. It features a optimized ELO prediction system (roughly 73% accurate to date), a dynamic RPI weighting for early season, and weekly game predictions posted to my X account. [@Lacrose_Rank](https://twitter.com/Lacrose_Rank) — Weekly lacrosse predictions and rankings account ran by me. 
+**[Lacrosse Rankings](https://github.com/dylanleblanc41/Lacrosse-Rankings)** an ELO + RPI ranking system for Divison 1 lacrosse. It features a optimized ELO prediction system (roughly 73% accurate to date), a dynamic RPI weighting for early season, and weekly game predictions posted to my X account. [@Lacrosse_Rank](https://twitter.com/Lacrosse_Rank) — Weekly lacrosse predictions and rankings account ran by me. 
 
 ## About Me
 
